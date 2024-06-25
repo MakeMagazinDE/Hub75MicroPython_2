@@ -10,6 +10,6 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./hub75_2_banner.jpg)
 
-Ergänzend zum Artikel in der Make 4/24 findet ihr hier die MicroPython-Programme und die Grafiken als Download.
+Ergänzend zum Artikel in der Make 4/24 findet ihr hier die MicroPython-Programme für die Wetteranzeige, das Python-Programm, mit dem man Bilder in Arrays umwandeln kann und die Grafiken als Download.
 
 Den vollständigen Artikel kann man in der **[Make-Ausgabe 4/24](https://www.heise.de/select/make)** lesen.
